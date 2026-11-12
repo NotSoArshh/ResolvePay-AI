@@ -1,0 +1,6 @@
+{
+  "name": "ResolvePay AI",
+  "description": "AI-powered payment dispute resolution platform for SMB online merchants with PayPal Sandbox integration and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
